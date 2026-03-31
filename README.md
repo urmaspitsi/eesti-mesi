@@ -25,4 +25,4 @@ To use it:
 
 1. Push the repository to GitHub.
 2. In repository settings, enable GitHub Pages and set the source to `GitHub Actions`.
-3. Push to `main` to trigger a deployment.
+3. Push to `main` to trigger a deployment..
